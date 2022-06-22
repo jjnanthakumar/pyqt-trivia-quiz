@@ -1,5 +1,5 @@
 autopep8==1.5.7
-numpy==1.21.0
+numpy==1.22.0
 pandas==1.2.4
 pycodestyle==2.7.0
 PyQt5==5.15.4
